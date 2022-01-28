@@ -5,4 +5,6 @@
 
 'DetectFaceinImageorVideo.ipynb' is a simple script to distinguish whether there is a face in the image or in the camera video.
 
-'CameraCatch' is a simple script to make screenshot imgaes or videos of camera.
+'CameraCatch.ipynb' is a simple script to make screenshot imgaes or videos of camera.
+
+'cameo' is a file contains the update version of 'CameraCatch.ipynb'. By running the script 'cameo.py', you can generate the pictures modified with filters that you set.
